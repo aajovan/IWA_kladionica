@@ -7,7 +7,7 @@ Projekt iz kolegija Izgradnja web aplikacija
 ## Korištene tehnologije
 
 * PHP
-* MYSQL
+* MySQL
 * HTML
 * CSS
 
