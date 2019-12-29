@@ -6,7 +6,11 @@ Projekt iz kolegija Izgradnja web aplikacija
 
 ## Korištene tehnologije
 
-* C# (.NET)
-* WPF
-* MaterialDesign In XAML
-* Quartz
+* PHP
+* MYSQL
+* HTML
+* CSS
+
+ <img src="projekt_slike/iwa1.jpg"/>
+ <img src="projekt_slike/iwa2.jpg"/>
+ <img src="projekt_slike/iwa3.jpg"/>
