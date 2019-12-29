@@ -14,3 +14,4 @@ Projekt iz kolegija Izgradnja web aplikacija
  <img src="projekt_slike/iwa1.jpg"/>
  <img src="projekt_slike/iwa2.jpg"/>
  <img src="projekt_slike/iwa3.jpg"/>
+  <img src="projekt_slike/iwa4.jpg"/>
